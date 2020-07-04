@@ -1,1 +1,1 @@
-Challenge_ProgressiveTaxation
+Challenge from reddit about basic calculation based on give tax bracket.
